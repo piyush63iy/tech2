@@ -1,0 +1,109 @@
+body{
+    margin: 0%;
+    background-color: #CEE5D0;
+    text-align: center;
+}
+.img-logo{
+    height: 200px;
+    width: 1300px;
+}
+.top-container{
+    margin: 0 auto 0 auto;
+}
+h1{
+    font-size: 120px;
+    color: #425F57;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    padding-left: 30px;
+    color: #749F82;
+}
+a:hover{
+    color: black;
+}
+.top{
+    font-size: 40px;
+}
+h2{
+    font-size: 70px;
+    color: #425F57;
+}
+.as{
+    font-size: 20px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.d1{
+    height: 100px;
+}
+.d1s{
+    clear: left;
+}
+h3{
+    clear: left;
+    margin-top: 30px;
+    color: #749F82;
+}
+.d2{
+    height: 100px;
+}
+.d2s{
+    clear: left;
+}
+.d3{
+    height: 100px;
+}
+.d3s{
+    clear: left;
+}
+.d4{
+    height: 100px;
+}
+.d4s{
+    clear: left;
+}
+.d5{
+    height: 100px;
+}
+.d5s{
+    clear: left;
+}
+.d6{
+    height: 100px;
+}
+.d6s{
+    clear: left;
+}
+.bottom-container{
+    background-color: #FCFFB2;
+    padding: 30px 0 50px 0;
+    margin-top: 40px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
